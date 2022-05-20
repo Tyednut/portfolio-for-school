@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-for-school/static/css/main.26bb6dc5.css",
+    "main.js": "/portfolio-for-school/static/js/main.b1e58ef6.js",
+    "static/js/787.ab02d019.chunk.js": "/portfolio-for-school/static/js/787.ab02d019.chunk.js",
+    "static/media/LinkedIn-logo.png": "/portfolio-for-school/static/media/LinkedIn-logo.7d10869b0c35018dfb69.png",
+    "index.html": "/portfolio-for-school/index.html",
+    "main.26bb6dc5.css.map": "/portfolio-for-school/static/css/main.26bb6dc5.css.map",
+    "main.b1e58ef6.js.map": "/portfolio-for-school/static/js/main.b1e58ef6.js.map",
+    "787.ab02d019.chunk.js.map": "/portfolio-for-school/static/js/787.ab02d019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26bb6dc5.css",
+    "static/js/main.b1e58ef6.js"
+  ]
+}
